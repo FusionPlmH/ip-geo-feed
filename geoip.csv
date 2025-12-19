@@ -3,3 +3,6 @@
 103.172.81.0/24,HK,Hong Kong,Kowloon
 2001:DF7:6680::/48,HK,Hong Kong,Kowloon
 2400:8DA0::/32,HK,Hong Kong,Kowloon
+
+# USA,
+69.33.13.0/24,US,United State,Sacramento
