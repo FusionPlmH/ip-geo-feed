@@ -1,25 +1,43 @@
 # HKG,
-103.172.80.0/24,HK,Hong Kong,Kowloon
-103.172.81.0/24,HK,Hong Kong,Kowloon
-2001:DF7:6680::/48,HK,Hong Kong,Kowloon
-2400:8DA0::/32,HK,Hong Kong,Kowloon
+103.172.80.0/24,HK,Hong Kong,Kowloon,
+103.172.81.0/24,HK,Hong Kong,Kowloon,
+2001:DF7:6680::/48,HK,Hong Kong,Kowloon,
+2400:8DA0::/32,HK,Hong Kong,Kowloon,
 
 # USA,
-69.33.13.0/24,US,US-CA,Sacramento
-209.137.178.0/24,US,US-CA,Sacramento
-2400:8da0:ed00::/48,US,US-CA,Sacramento
-2400:8da0:ed01::/48,US,US-CA,Sacramento
-2400:8da0:ed02::/48,US,US-CA,Sacramento
-2400:8da0:ed03::/48,US,US-CA,Sacramento
-2400:8da0:ed04::/48,US,US-CA,Sacramento
-2400:8da0:ed05::/48,US,US-CA,Sacramento
-2400:8da0:ed06::/48,US,US-CA,Sacramento
-2400:8da0:ed07::/48,US,US-CA,Sacramento
-2400:8da0:ed08::/48,US,US-CA,Sacramento
-2400:8da0:ed09::/48,US,US-CA,Sacramento
-2400:8da0:ed0a::/48,US,US-CA,Sacramento
-2400:8da0:ed0b::/48,US,US-CA,Sacramento
-2400:8da0:ed0c::/48,US,US-CA,Sacramento
-2400:8da0:ed0d::/48,US,US-CA,Sacramento
-2400:8da0:ed0e::/48,US,US-CA,Sacramento
-2400:8da0:ed0f::/48,US,US-CA,Sacramento
+209.137.178.0/24,US,US-CA,Sacramento,
+2400:8da0:ed00::/44,US,US-CA,Sacramento,
+2400:8da0:ed00::/48,US,US-CA,Sacramento,
+2400:8da0:ed01::/48,US,US-CA,Sacramento,
+2400:8da0:ed02::/48,US,US-CA,Sacramento,
+2400:8da0:ed03::/48,US,US-CA,Sacramento,
+2400:8da0:ed04::/48,US,US-CA,Sacramento,
+2400:8da0:ed05::/48,US,US-CA,Sacramento,
+2400:8da0:ed06::/48,US,US-CA,Sacramento,
+2400:8da0:ed07::/48,US,US-CA,Sacramento,
+2400:8da0:ed08::/48,US,US-CA,Sacramento,
+2400:8da0:ed09::/48,US,US-CA,Sacramento,
+2400:8da0:ed0a::/48,US,US-CA,Sacramento,
+2400:8da0:ed0b::/48,US,US-CA,Sacramento,
+2400:8da0:ed0c::/48,US,US-CA,Sacramento,
+2400:8da0:ed0d::/48,US,US-CA,Sacramento,
+2400:8da0:ed0e::/48,US,US-CA,Sacramento,
+2400:8da0:ed0f::/48,US,US-CA,Sacramento,
+
+# Singapore,
+2400:8da0:eb00::/48,SG,SG-01,Singapore,
+2400:8da0:eb01::/48,SG,SG-01,Singapore,
+2400:8da0:eb02::/48,SG,SG-01,Singapore,
+2400:8da0:eb03::/48,SG,SG-01,Singapore,
+2400:8da0:eb04::/48,SG,SG-01,Singapore,
+2400:8da0:eb05::/48,SG,SG-01,Singapore,
+2400:8da0:eb06::/48,SG,SG-01,Singapore,
+2400:8da0:eb07::/48,SG,SG-01,Singapore,
+2400:8da0:eb08::/48,SG,SG-01,Singapore,
+2400:8da0:eb09::/48,SG,SG-01,Singapore,
+2400:8da0:eb0a::/48,SG,SG-01,Singapore,
+2400:8da0:eb0b::/48,SG,SG-01,Singapore,
+2400:8da0:eb0c::/48,SG,SG-01,Singapore,
+2400:8da0:eb0d::/48,SG,SG-01,Singapore,
+2400:8da0:eb0e::/48,SG,SG-01,Singapore,
+2400:8da0:eb0f::/48,SG,SG-01,Singapore,
